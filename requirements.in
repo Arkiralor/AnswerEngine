@@ -1,3 +1,6 @@
+autopep8
 fastapi[standard]
 pymongo
+python-dotenv
+python-jose
 uvicorn
